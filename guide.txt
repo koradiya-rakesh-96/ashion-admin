@@ -1,0 +1,5 @@
+change table name orders_items to order_item
+change column name appartment to apartment in cus_add & orders
+
+add style.css
+add view/admin/orders/detail.blade.php 
